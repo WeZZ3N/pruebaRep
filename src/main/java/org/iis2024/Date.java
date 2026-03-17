@@ -66,6 +66,10 @@ public class Date {
 	  System.out.println("Pam Veraniesdfgesfgsaaxcsf");
   }
   
+  public void Rename() {
+	  System.out.println("NEw slfjasdfgd");
+  }
+
   /**
    * Validates the date according to the predefined rules: the year must be within 1900 to 2050, the
    * month within 1 to 12, and the day valid within the given month and year, considering leap
