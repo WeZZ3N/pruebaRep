@@ -60,6 +60,10 @@ public class Date {
     this.month = month;
     this.year = year;
   }
+  
+  public void Rename() {
+	  System.out.println("NEw slfjasdfgd");
+  }
 
   /**
    * Validates the date according to the predefined rules: the year must be within 1900 to 2050, the
